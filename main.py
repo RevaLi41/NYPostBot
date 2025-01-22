@@ -16,5 +16,7 @@ if __name__ == '__main__':
 
     # send to LLM
     grok.send_to_grok('Tell me why trump sucks')
+
+    print('hello')
     
     # pdb.set_trace()
